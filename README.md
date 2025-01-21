@@ -1,6 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Marium Shiraz</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariumshiraz&label=Profile%20views&color=0e75b6&style=flat" alt="mariumshiraz" /> </p>
+<p align="left"> <img src="![MM Letter Logo, a Branding   Logo Template by brandphant](https://github.com/user-attachments/assets/ff91aa4b-92cc-4b01-971b-f5d3a1d55036)
+" alt="mariumshiraz" /> </p>
 
 - 🌱 I have completed courses in **HTML and CSS** and am currently learning **JavaScript**.
 
